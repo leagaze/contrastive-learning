@@ -11,4 +11,4 @@ Nous allons nous inspirer de ce papier
 * <del> LARS optimizer </del> (done)
 * custom training loop (in progress)
 * augmentations generator (to do)
-* training routine (in progress)
+* entire training routine (in progress)
