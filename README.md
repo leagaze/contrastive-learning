@@ -14,3 +14,6 @@ Nous allons nous inspirer de ce papier
 * <del> entire training routine </del>(done)
 * contrastive loss problem (nan/inf values when temperature < 10)  --> need to correct this
 * projecteur last layer should be activation linear but only work when sigmoid --> need to correct this
+* Bad results for the moment
+
+
