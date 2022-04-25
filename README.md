@@ -9,6 +9,8 @@ Nous allons nous inspirer de ce papier
 * <del>create SIMCLR model</del>(done) 
 * <del>contrastive loss </del> (done)
 * <del> LARS optimizer </del> (done)
-* custom training loop (in progress)
-* augmentations generator (to do)
-* entire training routine (in progress)
+* <del> custom training loop</del> (done)
+* <del> augmentations generator</del> (done)
+* <del> entire training routine </del>(done)
+* contrastive loss problem (nan/inf values when temperature < 10)  --> need to correct this
+* projecteur last layer should be activation linear but only work when sigmoid --> need to correct this
