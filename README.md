@@ -12,8 +12,8 @@ Nous allons nous inspirer de ce papier
 * <del> custom training loop</del> (done)
 * <del> augmentations generator</del> (done)
 * <del> entire training routine </del>(done)
-* contrastive loss problem (nan/inf values when temperature < 10)  --> need to correct this
-* projecteur last layer should be activation linear but only work when sigmoid --> need to correct this
+* <del> contrastive loss problem (nan/inf values when temperature < 10)  --> need to correct this </del>(done)
+* <del> projecteur last layer should be activation linear but only work when sigmoid --> need to correct this </del>(done)
 * Bad results for the moment
 * create checkpoints to save weights and history of training (to do)
-
+* add augmentation to finetuning step (to do)
