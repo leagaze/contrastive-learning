@@ -20,3 +20,4 @@ Mais aussi de cet article de Stanford
 * Bad results for the moment
 * create checkpoints to save weights and history of training (to do)
 * add augmentation to finetuning step (to do)
+ 
