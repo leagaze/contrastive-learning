@@ -21,5 +21,5 @@ Mais aussi de cet article de Stanford
 * create checkpoints to save weights and history of training (to do)
 * add augmentation to finetuning step (to do)
  
- ## Issues
- *Large batch sizes do not improve model training
+## Issues
+*Large batch sizes do not improve model training
