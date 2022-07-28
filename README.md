@@ -1,7 +1,6 @@
 # Projet d'apprentissage faiblement supervisé
 L'idée de ce projet est de classifier des images d'animaux selon 95 classes. 
 
-Lien trello : https://trello.com/invite/projetsimclr/4c270cb5bb8d9b6173b4b5b97b34a43e
 
 ## Apprentissage auto-supervisé avec SimCLR 
 Nous allons nous inspirer de ce papier  
